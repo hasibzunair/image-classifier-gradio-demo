@@ -18,3 +18,4 @@ This is a simple demo of an image recognition system built with Gradio and serve
 ### References
 * https://huggingface.co/docs/hub/spaces-github-actions
 * https://www.gradio.app/image_classification_in_pytorch/
+* GH Actions https://youtu.be/8hOzsFETm4I
