@@ -13,7 +13,7 @@ license: afl-3.0
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces#reference
 
 # Image Recognition Demo
-This is a simple demo of an image recognition system built with Gradio and served on HuggingFace Spaces.
+Code for a simple demo of an image recognition system built with Gradio and served on HuggingFace Spaces. App is live at https://huggingface.co/spaces/hasibzunair/image-recognition-demo.
 
 ### References
 * https://huggingface.co/docs/hub/spaces-github-actions
